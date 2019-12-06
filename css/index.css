@@ -289,14 +289,18 @@ footer nav a {
 }
 
 /****************************************** about page ***************************************************/
+.h1 {
+    margin: 15px 0;
+}
 .top-section {
   display: flex;
+  justify-content: space-around;
 }
 
 .top-box {
   display: flex;
   justify-content: flex-start;
-  justify-content: space-between;
+  justify-content: space-around;
 
   margin: 25px 0;
   border-top: 1px dotted black;
@@ -305,31 +309,31 @@ footer nav a {
 
 .first-box {
   border-bottom: 1px dotted black;
-  width: 35%;
+  width: 100%;
   margin: 15px 0;
 }
 
 .second-box {
   border-bottom: 1px dotted black;
-  width: 35%;
+  width: 100%;
   margin: 15px 0;
 }
 
 .bottom-box {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   margin: 25px 0;
 }
 
 .third-box {
   border-bottom: 1px dotted black;
-  width: 35%;
+  width: 100%;
   margin: 15px 0;
 }
 
 .fourth-box {
   border-bottom: 1px dotted black;
-  width: 35%;
+  width: 100%;
   margin: 15px 0;
 }
 
