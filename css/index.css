@@ -319,14 +319,14 @@ header {
 .first-box {
   border-bottom: 1px dotted black;
   width: 100%;
-  margin: 15px 0;
+  margin: 15px 15px 15px 0;
   padding: 15px;
 }
 
 .second-box {
   border-bottom: 1px dotted black;
   width: 100%;
-  margin: 15px 0;
+  margin: 15px 0 15px 15px;
   padding: 15px;
 }
 
@@ -339,14 +339,14 @@ header {
 .third-box {
   border-bottom: 1px dotted black;
   width: 100%;
-  margin: 15px 0;
+  margin: 15px 15px 15px 0;
   padding: 15px;
 }
 
 .fourth-box {
   border-bottom: 1px dotted black;
   width: 100%;
-  margin: 15px 0;
+  margin: 15px 0 15px 15px;
   padding: 15px;
 }
 
