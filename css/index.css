@@ -208,6 +208,10 @@ footer nav a {
     display: flex;
 }
 
+.top-section {
+    display: flex;
+}
+
 .bottom-box {
     display: flex;
 }
