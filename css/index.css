@@ -292,6 +292,9 @@ footer nav a {
 }
 
 /****************************************** about page ***************************************************/
+header {
+    margin-top: 15px;
+}
 .jumbo-about-jpg {
     margin-top: 15px;
 }
