@@ -202,3 +202,12 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/****************************************** about page ***************************************************/
+.top-box {
+    display: flex;
+}
+
+.bottom-box {
+    display: flex;
+}
