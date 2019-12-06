@@ -34,24 +34,37 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+Semantic HTML or semantic markup is HTML that introduces meaning to the web page rather than just presentation.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+Compared to display: inline , the major difference is that display: inline-block allows to set a width and height on the element. Also, with display: inline-block , the top and bottom margins and paddings are respected, but with display: inline they are not.
 
 3. What are the 4 areas of the box model?
 
+The four areas of the box model are content, padding, border, and margin.
+
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
+The cross axis aka the vertical axis aka up and down. 
+
 5. Explain why git is valuable to a team of developers.
+
+GitHub allows you to create access rights to your code which means, for example, you could designate certain users who are allowed to freely push code to your repository.
+GitHub’s Forking feature allows a user to create a copy of a repository on their computer for them to work on without affecting the main repository. They can modify the code and then request to have the code merged with the main repository using another feature called Pull Requests.
+Pull Requests are a way for you to tell other developers about the changes you wish to merge into the main repository. The repository’s authors can review your changes and engage in discussions about them. Should more changes be needed, you can simply continue to work in your fork and the additional commits will appear in the pull request. Once a Pull Request is approved, the changes can then be merged into the main repository by the project’s author.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
 - [x] Create a forked copy of this project.
-- [ ] Add your project manager as collaborator on Github.
-- [ ] Clone your OWN version of the repository (Not Lambda's by mistake!).
-- [ ] Create a new branch: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [x] Add your project manager as collaborator on Github.
+- [x] Clone your OWN version of the repository (Not Lambda's by mistake!).
+- [x] Create a new branch: git checkout -b `<firstName-lastName>`.
+- [x] Implement the project on your newly created `<firstName-lastName>` branch, committing changes regularly.
+- [x] Push commits: git push origin `<firstName-lastName>`.
  
 Follow these steps for completing your project.
 
