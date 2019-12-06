@@ -204,14 +204,36 @@ footer nav a {
 }
 
 /****************************************** about page ***************************************************/
-.top-box {
-    display: flex;
-}
-
 .top-section {
     display: flex;
 }
 
+.top-box {
+    display: flex;
+   
+}
+
 .bottom-box {
     display: flex;
+}
+
+.bottom-section {
+    width: 100%;
+}
+
+p {
+    padding: 10px;
+}
+
+h2 {
+    margin: 15px;
+    margin-left: 0;
+}
+
+button {
+    margin: 10px;
+	padding: 10px 24px;
+	width: 135px;
+	border: 1px solid black;
+	border-radius: 8px;
 }
