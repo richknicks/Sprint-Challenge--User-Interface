@@ -162,6 +162,7 @@ nav a {
 }
 /******************************************** header *******************************************/
 /* boxes */
+
 .box1 {
   background-color: teal;
 }
@@ -344,6 +345,10 @@ footer nav a {
 
 .bottom-section {
   width: 100%;
+}
+
+.bottom-section-h2 {
+    margin:15px 15px 15px 10px;
 }
 
 p {
