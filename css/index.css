@@ -55,6 +55,64 @@ html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
 }
+/********************************************* header *****************************************/
+header {
+    display: flex;   
+}
+
+.logo {
+     margin-right: 25px;
+     display: flex;
+     justify-content: flex-start;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 2%;
+    font-size: 14px;      
+}
+/******************************************** header *******************************************/
+/* boxes */
+.box1 {
+    background-color: teal;
+}
+.box2 {
+    background-color: gold;
+}
+.box3 {
+    background-color: cadetblue;
+}
+.box4 {
+    background-color: coral;
+}
+.box5 {
+    background-color: crimson;
+}
+.box6 {
+    background-color: forestgreen;
+}
+.box7 {
+    background-color: darkorchid;
+}
+.box8 {
+    background-color: hotpink;
+}
+.box9 {
+    background-color: indigo;
+}
+.box10 {
+    background-color: dodgerblue;
+}
+/* boxes */
+.jumbo-jpg {
+    margin: 40px 0 15px;
+}
+
 
 h1, h2, h3, h4, h5 {
     font-size: 18px;
@@ -104,7 +162,7 @@ p {
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background: black;
+    /* background: black; */
     margin: 20px 2.5%;
     color: white;
     display: flex;
