@@ -210,11 +210,28 @@ footer nav a {
 
 .top-box {
     display: flex;
-   
+   margin: 25px 0;
+}
+
+.first-box {
+    border-bottom: 1px dotted black;
+}
+
+.second-box {
+    border-bottom: 1px dotted black; 
 }
 
 .bottom-box {
     display: flex;
+    margin: 25px 0;
+}
+
+.third-box {
+    border-bottom: 1px dotted black; 
+}
+
+.fourth-box {
+    border-bottom: 1px dotted black; 
 }
 
 .bottom-section {
