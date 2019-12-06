@@ -139,22 +139,17 @@ body {
 }
 /********************************************* header *****************************************/
 header {
-  display: flex;
+  /* display: flex; */
 }
 
 .logo {
   margin-right: 25px;
-  display: flex;
-  justify-content: flex-start;
 }
 
 nav a {
   color: black;
   text-decoration: none;
   width: 60%;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: 20px 2%;
   font-size: 14px;
 }
@@ -293,13 +288,12 @@ footer nav a {
     margin: 15px 0;
 }
 .top-section {
-  display: flex;
-  justify-content: space-around;
+  width: 100%;
+  disp
 }
 
 .top-box {
   display: flex;
-  justify-content: flex-start;
   justify-content: space-around;
 
   margin: 25px 0;
