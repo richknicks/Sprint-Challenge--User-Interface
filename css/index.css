@@ -317,12 +317,14 @@ footer nav a {
   border-bottom: 1px dotted black;
   width: 100%;
   margin: 15px 0;
+  padding: 15px;
 }
 
 .second-box {
   border-bottom: 1px dotted black;
   width: 100%;
   margin: 15px 0;
+  padding: 15px;
 }
 
 .bottom-box {
@@ -335,16 +337,19 @@ footer nav a {
   border-bottom: 1px dotted black;
   width: 100%;
   margin: 15px 0;
+  padding: 15px;
 }
 
 .fourth-box {
   border-bottom: 1px dotted black;
   width: 100%;
   margin: 15px 0;
+  padding: 15px;
 }
 
 .bottom-section {
   width: 100%;
+  padding: 15px;
 }
 
 .bottom-section-h2 {
